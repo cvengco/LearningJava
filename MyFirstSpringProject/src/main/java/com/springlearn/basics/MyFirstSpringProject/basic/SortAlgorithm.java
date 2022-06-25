@@ -1,4 +1,4 @@
-package com.springlearn.basics.MyFirstSpringProject;
+package com.springlearn.basics.MyFirstSpringProject.basic;
 
 public interface SortAlgorithm {
 	

@@ -1,4 +1,4 @@
-package com.springlearn.basics.MyFirstSpringProject;
+package com.springlearn.basics.MyFirstSpringProject.basic;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
